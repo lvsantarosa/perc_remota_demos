@@ -142,7 +142,7 @@ var ESTILO_ETIQUETA = {fontWeight: 'bold', fontSize: '12px', margin: '10px 4px 2
 var ESTILO_TEXTO    = {fontSize: '12px', color: '#333', margin: '2px 4px',
                        whiteSpace: 'pre-wrap'};
 
-var titulo = ui.Label('Introducción al Sensoramiento Remoto', ESTILO_TITULO);
+var titulo = ui.Label('Introducción a la Percepción Remota (Teledetección)', ESTILO_TITULO);
 
 var tituloModulo  = ui.Label('', {fontWeight: 'bold', fontSize: '14px',
                                   margin: '10px 4px 4px', color: '#1a5490'});
