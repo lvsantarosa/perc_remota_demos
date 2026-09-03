@@ -12,7 +12,8 @@ Colección de aplicaciones interactivas desarrolladas en Google Earth Engine (GE
 ---
 
 ## 1. Introducción a la Percepción Remota (Nivel Fundamental)
-**Archivo:** `src/gee_intro_app.js`
+**Archivo:** `intro_perc_remo_app.js`
+
 
 ### 🎯 Objetivo Educativo
 El objetivo principal es materializar conceptos teóricos de la teledetección mediante la interacción directa con datos de **Landsat 8/9, Sentinel-2 y MODIS** en la región de Quillota, Chile. 
@@ -32,7 +33,7 @@ El objetivo principal es materializar conceptos teóricos de la teledetección m
 ---
 
 ## 2. Análisis de Mezcla Espectral / SMA (Nivel Posgrado)
-**Archivo:** `src/gee_sma_app.js`
+**Archivo:** `spectral_mixing.js`
 
 ### 🎯 Objetivo Educativo
 Abordar el problema de los píxeles mixtos y la resolución sub-píxel partiendo de una premisa física realista: un *endmember* no es un espectro único perfecto, sino una **nube de espectros con variabilidad intrínseca**.
